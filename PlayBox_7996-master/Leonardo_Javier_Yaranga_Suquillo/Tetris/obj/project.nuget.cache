@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YjdFaFJRTNB0s8KWqBfGuMAHeLd3rOKn5CRuZLuMjaaoPtLPKMDxfhtUJNQEVZS5Z34vvFZzDYnaIK7wPBA1AA==",
+  "success": true,
+  "projectFilePath": "D:\\Leonardo Yaranga\\Escritorio\\POO\\ExperimentClases\\PlayBox_7996-master\\Leonardo_Javier_Yaranga_Suquillo\\Tetris\\Tetris.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
